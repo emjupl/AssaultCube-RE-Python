@@ -1,13 +1,9 @@
-# assault-cube-memory-reader
-🎮 AssaultCube Memory Reader (Python)
+#AssaultCube-RE-Python
+## 📌 About This Repository
 
-A simple Python script for real-time memory reading in **AssaultCube** using the `pymem` library. The program extracts local player data (ammo, X/Y/Z coordinates, health) and iterates through the list of other players on the map, printing their stats to the console.
+Welcome! This repository serves as a personal sandbox and learning journal for my journey into **Reverse Engineering**, **Memory Management**, and **Python programming**. 
 
-## ⚠️ Important Warning / Disclaimer
-> **I strongly advise against taking this code as an example, because I'm not entirely sure what I'm doing.** This project was created purely experimentally for learning purposes. The code might contain bugs, bad practices, or weird solutions. Use at your own risk!
+Here you will find various scripts, trainers, and experiments built around the game **AssaultCube**. 
 
-## 🛠️ Requirements
-* Python 3.x
-* Installed `pymem` library:
-  ```bash
-  pip install pymem
+> **⚠️ Note / Disclaimer:** 
+> Everything in this repository is written **strictly for educational purposes** as I learn how processes work under the hood. These projects are not meant to be used for malicious purposes, cheating in multiplayer games, or production use. Feel free to look around, but remember this is just a learning playground!

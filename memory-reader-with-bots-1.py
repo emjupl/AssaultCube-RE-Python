@@ -1,9 +1,5 @@
 import pymem
 import time
-import os
-
-red = "\033[31m"
-reset = "\033[0m"
 
 pm = pymem.Pymem("ac_client.exe")
 
